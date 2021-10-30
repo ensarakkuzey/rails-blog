@@ -1,1 +1,1 @@
-Heroku : viblog-rails.herokuapp.com
+Heroku : http://viblog-rails.herokuapp.com
